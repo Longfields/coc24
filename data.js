@@ -1,1 +1,2 @@
-var name = 'LeaferStudios';
+// Just testing
+let coc_name = 'LeaferStudios';
