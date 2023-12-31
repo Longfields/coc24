@@ -3,10 +3,34 @@
 
 var coc_doesItWork = true; // Test run to see if it is usable as CDN
 
-var coc_teamOneName = "One"; 
-var coc_teamTwoName = "Two";
-var coc_teamThreeName = "Three";
-var coc_teamFourName = "Four";
+/**
+Team Names
+**/
+var coc_teamOneName = "Fifth"; 
+var coc_teamTwoName = "LeaferStudios";
+var coc_teamThreeName = "Captain Longtreader";
+var coc_teamFourName = "F4stBo1";
+
+
+/**
+Clash of Code Schedule
+SAMPLE:
+
+{
+name: "",
+date: "",
+author: "",
+content: "",
+},
+**/
+var coc_schedule = [
+  {
+    name: "Title",
+    date: "Dec. 31. 2023",
+    author: "LeaferStudios",
+    content: "Hello world! Week 1 is here.",
+  },
+];
 
 var coc_teamOneMembers = [
   {
@@ -14,7 +38,10 @@ var coc_teamOneMembers = [
     link: "https://www.khanacademy.org/profile/kaid_553656479258879622339276/",
     experience: 0,
     scores: [0, 0, 0, 0, 0, 0, 0],
-    
+
+    // extra
+    programs: [''],
+    bio: "hi uh... uhh idk",
   },
 ];
 
