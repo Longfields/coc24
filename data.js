@@ -19,6 +19,7 @@ SAMPLE:
 {
 name: "",
 date: "",
+img: "",
 author: "",
 content: "",
 },
@@ -27,9 +28,32 @@ var coc_schedule = [
   {
     name: "Title",
     date: "Dec. 31. 2023",
+    img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
     author: "LeaferStudios",
     content: "Hello world! Week 1 is here.",
   },
+  {
+    name: "Title",
+    date: "Dec. 31. 2023",
+    img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
+    author: "LeaferStudios",
+    content: "Hello world! Week 1 is here.",
+  },
+  {
+    name: "Title",
+    date: "Dec. 31. 2023",
+    img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
+    author: "LeaferStudios",
+    content: "Hello world! Week 1 is here.",
+  },
+  {
+    name: "Title",
+    date: "Dec. 31. 2023",
+    img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
+    author: "LeaferStudios",
+    content: "Hello world! Week 1 is here.",
+  },
+  
 ];
 
 var coc_teamOneMembers = [
