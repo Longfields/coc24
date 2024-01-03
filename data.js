@@ -6,7 +6,7 @@ var coc_doesItWork = true; // Test run to see if it is usable as CDN
 /**
 Team Names
 **/
-var coc_teamOneName = "Fifth"; 
+var coc_teamOneName = "Fifth";
 var coc_teamTwoName = "LeaferStudios";
 var coc_teamThreeName = "Captain Longtreader";
 var coc_teamFourName = "F4stBo1";
@@ -23,36 +23,35 @@ author: "",
 content: "",
 },
 **/
-var coc_schedule = [
-  {
-    name: "Title",
-    date: "Dec. 31. 2023",
-    img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
-    author: "LeaferStudios",
-    content: "Hello world! Week 1 is here.",
-  },
-  {
-    name: "Title",
-    date: "Dec. 31. 2023",
-    img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
-    author: "LeaferStudios",
-    content: "Hello world! Week 1 is here.",
-  },
-  {
-    name: "Title",
-    date: "Dec. 31. 2023",
-    img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
-    author: "LeaferStudios",
-    content: "Hello world! Week 1 is here.",
-  },
-  {
-    name: "Title",
-    date: "Dec. 31. 2023",
-    img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
-    author: "LeaferStudios",
-    content: "Hello world! Week 1 is here.",
-  },
-  
+var coc_schedule = [{
+		name: "Title",
+		date: "Dec. 31. 2023",
+		img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
+		author: "LeaferStudios",
+		content: "Hello world! Week 1 is here.",
+	},
+	{
+		name: "Title",
+		date: "Dec. 31. 2023",
+		img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
+		author: "LeaferStudios",
+		content: "Hello world! Week 1 is here.",
+	},
+	{
+		name: "Title",
+		date: "Dec. 31. 2023",
+		img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
+		author: "LeaferStudios",
+		content: "Hello world! Week 1 is here.",
+	},
+	{
+		name: "Title",
+		date: "Dec. 31. 2023",
+		img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
+		author: "LeaferStudios",
+		content: "Hello world! Week 1 is here.",
+	},
+
 ];
 
 /**
@@ -84,7 +83,7 @@ var coc_teamFifth = {
 			// extra
 			programs: ['#', '#', '#'],
 			bio: "@FifthStateOfMatter",
-		},{
+		}, {
 			name: "Fifth",
 			link: "https://www.khanacademy.org/profile/kaid_1065213098995021368328526",
 			avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-blue.svg",
@@ -131,7 +130,7 @@ var coc_teamLeaferStudios = {
 			scores: [0, 0, 0],
 			programs: ['#', '#', '#'],
 			bio: "@LeaferStudios",
-		},{
+		}, {
 			name: "LeaferStudios",
 			link: "https://www.khanacademy.org/profile/kaid_553656479258879622339276/",
 			avatar: "https://cdn.kastatic.org/images/avatars/svg/leafers-ultimate.svg",
@@ -177,7 +176,7 @@ var coc_teamCaptainLongtreader = {
 			scores: [0, 0, 0],
 			programs: ['#', '#', '#'],
 			bio: "@ThornSeaclaw",
-		},{
+		}, {
 			name: "Captain Longtreader",
 			link: "https://www.khanacademy.org/profile/kaid_460330406411328152379375",
 			avatar: "https://cdn.kastatic.org/images/avatars/svg/starky-ultimate.svg",
@@ -225,7 +224,7 @@ var coc_teamFastBoi = {
 			// extra
 			programs: ['#', '#', '#'],
 			bio: "@f4stb01",
-		},{
+		}, {
 			name: "F4stB01",
 			link: "https://www.khanacademy.org/profile/kaid_114585470331020100763556",
 			avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-hopper-cool.svg",
@@ -247,3 +246,23 @@ var coc_teamFastBoi = {
 	},
 
 };
+
+
+// Free Agents
+var coc_freeAgents = [{
+		name: "Example",
+		link: "https://www.khanacademy.org/profile/kaid_1065213098995021368328526",
+		avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
+		experience: 0,
+		programs: ['#', '#', '#'],
+		bio: "Add yourself to the Free Agents list if you didn't get drafted by going to the 'Free Agents' thread in the Tips & Thanks. Be sure to fill out the form provided in the Tips & Thanks thread.",
+	},
+	{
+		name: "Example",
+		link: "https://www.khanacademy.org/profile/kaid_1065213098995021368328526",
+		avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
+		experience: 0,
+		programs: ['#', '#', '#'],
+		bio: "Add yourself to the Free Agents list if you didn't get drafted by going to the 'Free Agents' thread in the Tips & Thanks. Be sure to fill out the form provided in the Tips & Thanks thread.",
+	},
+];
