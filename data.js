@@ -84,6 +84,15 @@ var coc_teamFifth = {
 			// extra
 			programs: ['#', '#', '#'],
 			bio: "@FifthStateOfMatter",
+		},{
+			name: "Fifth",
+			link: "https://www.khanacademy.org/profile/kaid_1065213098995021368328526",
+			avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-blue.svg",
+			experience: 4,
+			scores: [0, 0, 0],
+			// extra
+			programs: ['#', '#', '#'],
+			bio: "@FifthStateOfMatter",
 		},
 	],
 
@@ -122,6 +131,14 @@ var coc_teamLeaferStudios = {
 			scores: [0, 0, 0],
 			programs: ['#', '#', '#'],
 			bio: "@LeaferStudios",
+		},{
+			name: "LeaferStudios",
+			link: "https://www.khanacademy.org/profile/kaid_553656479258879622339276/",
+			avatar: "https://cdn.kastatic.org/images/avatars/svg/leafers-ultimate.svg",
+			experience: 4,
+			scores: [0, 0, 0],
+			programs: ['#', '#', '#'],
+			bio: "@LeaferStudios",
 		},
 	],
 
@@ -153,6 +170,14 @@ var coc_teamCaptainLongtreader = {
 		 }
 		**/
 		{
+			name: "Captain Longtreader",
+			link: "https://www.khanacademy.org/profile/kaid_460330406411328152379375",
+			avatar: "https://cdn.kastatic.org/images/avatars/svg/starky-ultimate.svg",
+			experience: 4,
+			scores: [0, 0, 0],
+			programs: ['#', '#', '#'],
+			bio: "@ThornSeaclaw",
+		},{
 			name: "Captain Longtreader",
 			link: "https://www.khanacademy.org/profile/kaid_460330406411328152379375",
 			avatar: "https://cdn.kastatic.org/images/avatars/svg/starky-ultimate.svg",
@@ -200,6 +225,15 @@ var coc_teamFastBoi = {
 			// extra
 			programs: ['#', '#', '#'],
 			bio: "@f4stb01",
+		},{
+			name: "F4stB01",
+			link: "https://www.khanacademy.org/profile/kaid_114585470331020100763556",
+			avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-hopper-cool.svg",
+			experience: 4,
+			scores: [0, 0, 0],
+			// extra
+			programs: ['#', '#', '#'],
+			bio: "@f4stb01",
 		},
 	],
 
@@ -213,4 +247,3 @@ var coc_teamFastBoi = {
 	},
 
 };
-
