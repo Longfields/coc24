@@ -92,7 +92,7 @@ var coc_teamFifth = {
 		var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
 		var q = z.split(",").filter(x => x.trim().length && !isNaN(x)).map(Number);
 		for (var i = 0; i < q.length; i++) {
-			return q.reduce((partialSum, a) => partialSum + a, 0);;
+			return q.reduce((partialSum, a) => partialSum + a, 0);
 		}
 	},
 
@@ -130,7 +130,7 @@ var coc_teamLeaferStudios = {
 		var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
 		var q = z.split(",").filter(x => x.trim().length && !isNaN(x)).map(Number);
 		for (var i = 0; i < q.length; i++) {
-			return q.reduce((partialSum, a) => partialSum + a, 0);;
+			return q.reduce((partialSum, a) => partialSum + a, 0);
 		}
 	},
 
@@ -169,7 +169,7 @@ var coc_teamCaptainLongtreader = {
 		var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
 		var q = z.split(",").filter(x => x.trim().length && !isNaN(x)).map(Number);
 		for (var i = 0; i < q.length; i++) {
-			return q.reduce((partialSum, a) => partialSum + a, 0);;
+			return q.reduce((partialSum, a) => partialSum + a, 0);
 		}
 	},
 
@@ -208,7 +208,7 @@ var coc_teamFastBoi = {
 		var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
 		var q = z.split(",").filter(x => x.trim().length && !isNaN(x)).map(Number);
 		for (var i = 0; i < q.length; i++) {
-			return q.reduce((partialSum, a) => partialSum + a, 0);;
+			return q.reduce((partialSum, a) => partialSum + a, 0);
 		}
 	},
 
