@@ -266,3 +266,44 @@ var coc_freeAgents = [{
 		bio: "Add yourself to the Free Agents list if you didn't get drafted by going to the 'Free Agents' thread in the Tips & Thanks. Be sure to fill out the form provided in the Tips & Thanks thread.",
 	},
 ];
+
+var programs = [
+			    /**
+			     * SAMPLE:
+			    {
+			        name: '', // Tutorial Name
+			        link: '', // Tutorial Link
+			        thumb:'', // Thumbnail
+			        author:'', // Author Username
+			        authorKAID:'', // Author Profile Link
+			    },
+			    **/
+			    {
+				name: "Web Components Tutorial",
+				link: "https://www.khanacademy.org/computer-programming/web-components-tutorial/4992698549223424",
+				thumb: "https://www.khanacademy.org/computer-programming/web-components-tutorial/4992698549223424/5180296297365504.png",
+				author: 'LeaferStudios',
+				authorKAID: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276/',
+			    },
+			    {
+				name: "Player Gravity Tutorial",
+				link: "https://www.khanacademy.org/computer-programming/player-gravity-tutorial/6678198796042240",
+				thumb: "https://www.khanacademy.org/computer-programming/player-gravity-tutorial/6678198796042240/6285397110177792.png",
+				author: 'LeaferStudios',
+				authorKAID: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276/',
+			    },
+			    {
+				name: "Tutorial: Material Icons",
+				link: "https://www.khanacademy.org/computer-programming/tutorial-material-icons/5308181993177088",
+				thumb: "https://www.khanacademy.org/computer-programming/tutorial-material-icons/5308181993177088/4693456192716800.png",
+				author: 'LeaferStudios',
+				authorKAID: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276/',
+			    },
+			    {
+				name: "Tutorial: Tabs",
+				thumb: "https://www.khanacademy.org/computer-programming/tutorial-tabs/6101792480116736/5900794795868160.png",
+				link: "https://www.khanacademy.org/computer-programming/tutorial-tabs/6101792480116736",
+				author: 'LeaferStudios',
+				authorKAID: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276/',
+			    },
+			];
