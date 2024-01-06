@@ -320,4 +320,21 @@ var programs = [
         author: 'LeaferStudios',
         authorKAID: 'https://www.khanacademy.org/profile/kaid_553656479258879622339276/',
     },
+    {
+        name: "Platformer Tutorial",
+        thumb: "https://www.khanacademy.org/computer-programming/platformer-tutorial/4978980719378432/latest.png",
+        link: "https://www.khanacademy.org/computer-programming/platformer-tutorial/4978980719378432",
+        author: 'Liam K.',
+        authorKAID: 'https://www.khanacademy.org/profile/liamk.ka/',
+    },
+	{
+        name: "Particles",
+        thumb: "https://www.khanacademy.org/computer-programming/particles-7-player-dust/4548670164877312/latest.png",
+        link: "https://www.khanacademy.org/computer-programming/particles-7-player-dust/4548670164877312",
+        author: 'Gray Wolf',
+        authorKAID: 'https://khanacademy.org/profile/kaid_639291037700385781852565/projects',
+    },
+	
+	
+		
 ];
