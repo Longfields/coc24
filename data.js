@@ -8,7 +8,7 @@ You don't need to edit this
 var coc_teamOneName = "Fifth";
 var coc_teamTwoName = "LeaferStudios";
 var coc_teamThreeName = "Captain Longtreader";
-var coc_teamFourName = "F4stBo1";
+var coc_teamFourName = "Dominic R. ";
 
 /**
  * SAMPLE:
@@ -213,7 +213,7 @@ var coc_teamCaptainLongtreader = {
 
 };
 var coc_teamFastBoi = {
-    name: "F4stB01",
+    name: "Dominic R.",
     color: "rgb(94, 56, 0);",
     members: [
         /**
@@ -230,23 +230,23 @@ var coc_teamFastBoi = {
          }
         **/
         {
-            name: "F4stB01",
-            link: "https://www.khanacademy.org/profile/kaid_114585470331020100763556",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-hopper-cool.svg",
+            name: "Dominic R.",
+            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-orange.svg",
             experience: 4,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
-            bio: "@f4stb01",
+            bio: "@jD2R",
         }, {
-            name: "F4stB01",
-            link: "https://www.khanacademy.org/profile/kaid_114585470331020100763556",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-hopper-cool.svg",
+            name: "Dominic R.",
+            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-orange.svg",
             experience: 4,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
-            bio: "@f4stb01",
+            bio: "@jD2R",
         },
     ],
 
