@@ -8,7 +8,8 @@ You don't need to edit this
 var coc_teamOneName = "Fifth";
 var coc_teamTwoName = "LeaferStudios";
 var coc_teamThreeName = "Captain Longtreader";
-var coc_teamFourName = "Dominic R.";
+var coc_teamFourName = "F4stBo1";
+var coc_teamFiveName = "Dominic R.";
 
 /**
  * SAMPLE:
@@ -213,8 +214,56 @@ var coc_teamCaptainLongtreader = {
 
 };
 var coc_teamFastBoi = {
-    name: "Dominic R.",
+    name: "F4stBo1",
     color: "rgb(94, 56, 0);",
+    members: [
+        /**
+         * SAMPLE:
+         * 
+         {
+         name: '', // participant name
+         link: 'https://www.khanacademy.org/profile/', // add kaid_ after
+         avatar: 'https://cdn.kastatic.org/images/avatars/svg/', // add svg name after
+         experience: 0, // GUIDE: 0 is Beginner, 1 is Intermediate, 2 is Advanced, 3 is Very Advanced, 4 is Expert
+         scores: [0, 0, 0], // one for each challenge
+         programs: ['#','#','#'], // one for each challenge
+         bio: '', // custom requested through Tips and Thanks (Bio thread)
+         }
+        **/
+        {
+            name: "F4stBo1",
+            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-orange.svg",
+            experience: 4,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "@jD2R",
+        }, {
+            name: "F4stBo1",
+            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-orange.svg",
+            experience: 4,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "@jD2R",
+        },
+    ],
+
+
+    calcScores: function() {
+        var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
+        var q = z.split(",").filter(x => x.trim().length && !isNaN(x)).map(Number);
+        for (var i = 0; i < q.length; i++) {
+            return q.reduce((partialSum, a) => partialSum + a, 0);
+        }
+    },
+
+};
+var coc_teamDR = {
+    name: "Dominic R.",
+    color: "rgb(186, 122, 48);",
     members: [
         /**
          * SAMPLE:
@@ -239,14 +288,14 @@ var coc_teamFastBoi = {
             programs: ['#', '#', '#'],
             bio: "@jD2R",
         }, {
-            name: "Dominic R.",
+            name: "Sample Member",
             link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-orange.svg",
-            experience: 4,
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
+            experience: 1,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
-            bio: "@jD2R",
+            bio: "This could be you!",
         },
     ],
 
