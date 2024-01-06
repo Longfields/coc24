@@ -99,14 +99,14 @@ var coc_teamFifth = {
             programs: ['#', '#', '#'],
             bio: "@FifthStateOfMatter",
         }, {
-            name: "Fifth",
-            link: "https://www.khanacademy.org/profile/kaid_1065213098995021368328526",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-blue.svg",
-            experience: 4,
+            name: "Sample Member",
+            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
+            experience: 1,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
-            bio: "@FifthStateOfMatter",
+            bio: "This could be you!",
         },
     ],
 
@@ -146,13 +146,14 @@ var coc_teamLeaferStudios = {
             programs: ['#', '#', '#'],
             bio: "@LeaferStudios",
         }, {
-            name: "LeaferStudios",
-            link: "https://www.khanacademy.org/profile/kaid_553656479258879622339276/",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/leafers-ultimate.svg",
-            experience: 4,
+            name: "Sample Member",
+            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
+            experience: 1,
             scores: [0, 0, 0],
+            // extra
             programs: ['#', '#', '#'],
-            bio: "@LeaferStudios",
+            bio: "This could be you!",
         },
     ],
 
@@ -192,13 +193,14 @@ var coc_teamCaptainLongtreader = {
             programs: ['#', '#', '#'],
             bio: "@ThornSeaclaw",
         }, {
-            name: "Captain Longtreader",
-            link: "https://www.khanacademy.org/profile/kaid_460330406411328152379375",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/starky-ultimate.svg",
-            experience: 4,
+            name: "Sample Member",
+            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
+            experience: 1,
             scores: [0, 0, 0],
+            // extra
             programs: ['#', '#', '#'],
-            bio: "@ThornSeaclaw",
+            bio: "This could be you!",
         },
 
     ],
@@ -233,21 +235,21 @@ var coc_teamFastBoi = {
         {
             name: "F4stBo1",
             link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-orange.svg",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-hopper-cool.svg",
             experience: 4,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
-            bio: "@jD2R",
+            bio: "@f4stb01",
         }, {
-            name: "F4stBo1",
+            name: "Sample Member",
             link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-orange.svg",
-            experience: 4,
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
+            experience: 1,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
-            bio: "@jD2R",
+            bio: "This could be you!",
         },
     ],
 
@@ -339,7 +341,16 @@ var coc_freeAgents = [{
         experience: 0,
         programs: ['#', '#', '#'],
         bio: "Add yourself to the Free Agents list if you didn't get drafted by going to the 'Free Agents' thread in the Tips & Thanks. Be sure to fill out the form provided in the Tips & Thanks thread.",
-    },
+    }, {
+            name: "Sample Member",
+            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
+            experience: 1,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
 ];
 
 var programs = [
