@@ -8,7 +8,7 @@ You don't need to edit this
 var coc_teamOneName = "Fifth";
 var coc_teamTwoName = "LeaferStudios";
 var coc_teamThreeName = "Captain Longtreader";
-var coc_teamFourName = "Dominic R. ";
+var coc_teamFourName = "Dominic R.";
 
 /**
  * SAMPLE:
@@ -263,6 +263,18 @@ var coc_teamFastBoi = {
 
 
 // Free Agents
+/**
+SAMPLE:
+    {
+         name: '', // participant name
+         link: 'https://www.khanacademy.org/profile/', // add kaid_ after
+         avatar: 'https://cdn.kastatic.org/images/avatars/svg/', // add svg name after
+         experience: 0, // GUIDE: 0 is Beginner, 1 is Intermediate, 2 is Advanced, 3 is Very Advanced, 4 is Expert
+         scores: [0, 0, 0], // one for each challenge
+         programs: ['#','#','#'], // one for each challenge, enter Khan Academy program link
+         bio: '', // custom requested through Tips and Thanks (Bio thread)
+    },
+**/
 var coc_freeAgents = [{
         name: "Example",
         link: "https://www.khanacademy.org/profile/kaid_1065213098995021368328526",
