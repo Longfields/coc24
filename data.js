@@ -39,34 +39,33 @@ content: "",
 },
 **/
 var coc_schedule = [{
-        name: "Drafting Begins",
-        date: "Jan. 8. 2024",
-        img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
-        author: "Liam K.",
-        content: "The Draft officially opens and we will notify you of the results in the Tips and Thanks.",
-    },
-    {
-        name: "Pairs Challenge",
-        date: "Jan. 15. 2024",
-        img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
-        author: "Cowboi",
-        content: "The Pairs Challenge officially begins on Monday, January 15th. Pair up with another teammate to create an epic challenge.<br><br><b>Deadline:</b> January 29th<br><b>Theme: </b> TBA",
-    },
-    {
-        name: "Title",
-        date: "Dec. 31. 2023",
-        img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
-        author: "LeaferStudios",
-        content: "Hello world! Week 1 is here.",
-    },
-    {
-        name: "Title",
-        date: "Dec. 31. 2023",
-        img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
-        author: "LeaferStudios",
-        content: "Hello world! Week 1 is here.",
-    },
-
+		name: "Drafting Begins",
+		date: "Jan. 8. 2024",
+		img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mica_Mountain_BC.jpg",
+		author: "Liam K.",
+		content: "The Draft officially opens and we will notify you of the results in the Tips and Thanks.",
+	},
+	{
+		name: "Pairs Challenge",
+		date: "Jan. 15. 2024",
+		img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pears_%284T0A4858%29.jpg/640px-Pears_%284T0A4858%29.jpg",
+		author: "Cowboi",
+		content: "The Pairs Challenge officially begins on Monday, January 15th. Pair up with another teammate to create an epic entry. br><br><b>Deadline:</b> January 29th<br><b>Theme: </b> TBA",
+	},
+	{
+		name: "Trios Challenge",
+		date: "Jan. 29. 2024",
+		img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Colorful_illuminated_facades_of_buildings_at_night%2C_with_green%2C_blue_and_pink_lights%2C_Kabukicho%2C_Shinjuku%2C_Tokyo.jpg/640px-Colorful_illuminated_facades_of_buildings_at_night%2C_with_green%2C_blue_and_pink_lights%2C_Kabukicho%2C_Shinjuku%2C_Tokyo.jpg",
+		author: "Liam K.",
+		content: "Find a group of three and unleash your creativity. The trios challenges starts on Monday, January 29th. <br><br><b>Deadline:</b> February 12th<br><b>Theme: </b> TBA",
+	},
+	{
+		name: "Grand Finale",
+		date: "Feb. 12. 2024",
+		img: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Balloons_%2Aand%2A_Confetti%21_%283787445909%29.jpg/640px-Balloons_%2Aand%2A_Confetti%21_%283787445909%29.jpg",
+		author: "Cowboi",
+		content: "In this full team collaboration, show off the fullest extent of your coding talents. Challenge begins on Monday, February 12th. <br><br><b>Deadline:</b> March 4th<br><b>Theme: </b> TBA",
+	},
 ];
 
 /**
