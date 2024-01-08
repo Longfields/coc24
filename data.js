@@ -50,8 +50,8 @@ var coc_schedule = [{
 		name: "Pairs Challenge",
 		date: "Jan. 15. 2024",
 		img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pears_%284T0A4858%29.jpg/640px-Pears_%284T0A4858%29.jpg",
-		author: "Cowboi",
-		content: "The Pairs Challenge officially begins on Monday, January 15th. Pair up with another teammate to create an epic entry. br><br><b>Deadline:</b> January 29th<br><b>Theme: </b> TBA",
+		author: "CowboysFan232",
+		content: "The Pairs Challenge officially begins on Monday, January 15th. Pair up with another teammate to create an epic entry. <br><br><b>Deadline:</b> January 29th<br><b>Theme: </b> TBA",
 	},
 	{
 		name: "Trios Challenge",
@@ -64,7 +64,7 @@ var coc_schedule = [{
 		name: "Grand Finale",
 		date: "Feb. 12. 2024",
 		img: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Balloons_%2Aand%2A_Confetti%21_%283787445909%29.jpg/640px-Balloons_%2Aand%2A_Confetti%21_%283787445909%29.jpg",
-		author: "Cowboi",
+		author: "CowboysFan232",
 		content: "In this full team collaboration, show off the fullest extent of your coding talents. Challenge begins on Monday, February 12th. <br><br><b>Deadline:</b> March 4th<br><b>Theme: </b> TBA",
 	},
 ];
