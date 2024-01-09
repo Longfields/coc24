@@ -406,6 +406,14 @@ var programs = [
         author: 'Gray Wolf',
         authorKAID: 'https://khanacademy.org/profile/kaid_639291037700385781852565/projects',
     },
+    {
+        name: "Masking Tutorial",
+        thumb: "https://www.khanacademy.org/computer-programming/masking-tutorial/6140159178915840/latest.png",
+        link: "https://www.khanacademy.org/computer-programming/masking-tutorial/6140159178915840",
+        author: 'NitOwl007',
+        authorKAID: 'https://www.khanacademy.org/profile/kaid_607413902639112014082643/projects',
+    },
+
 	
 	
 		
