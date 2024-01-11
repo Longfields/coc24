@@ -234,7 +234,7 @@ var coc_teamFastBoi = {
         **/
         {
             name: "F4stBo1",
-            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            link: "https://www.khanacademy.org/profile/kaid_114585470331020100763556/",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-hopper-cool.svg",
             experience: 4,
             scores: [0, 0, 0],
@@ -243,7 +243,7 @@ var coc_teamFastBoi = {
             bio: "@f4stb01",
         }, {
             name: "Sample Member",
-            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
+            link: "https://www.khanacademy.org/profile/kaid_114585470331020100763556/",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
             experience: 1,
             scores: [0, 0, 0],
@@ -413,7 +413,12 @@ var programs = [
         author: 'NitOwl007',
         authorKAID: 'https://www.khanacademy.org/profile/kaid_607413902639112014082643/projects',
     },
-
+	{
+		name:"Bullet Tutorial",thumb:"https://www.khanacademy.org/computer-programming/bullet-tutorial/5767989851406336/5622411284234240.png",
+		link:"https://www.khanacademy.org/computer-programming/bullet-tutorial/5767989851406336",
+		author:"WalkWorthy",
+		authorKAID:"https://www.khanacademy.org/profile/kaid_572162445297461577426497/projects",
+	},
 	
 	
 		
