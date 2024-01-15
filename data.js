@@ -51,7 +51,7 @@ var coc_schedule = [{
 		date: "Jan. 15. 2024",
 		img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pears_%284T0A4858%29.jpg/640px-Pears_%284T0A4858%29.jpg",
 		author: "CowboysFan232",
-		content: "The Pairs Challenge officially begins on Monday, January 15th. Pair up with another teammate to create an epic entry. <br><br><b>Deadline:</b> January 29th<br><b>Theme: </b> TBA",
+		content: "The Pairs Challenge officially begins on Monday, January 15th. Pair up with another teammate to create an epic entry. <br><br><b>Deadline:</b> January 29th<br><b>Theme: </b> Food",
 	},
 	{
 		name: "Trios Challenge",
@@ -99,15 +99,56 @@ var coc_teamFifth = {
             programs: ['#', '#', '#'],
             bio: "@FifthStateOfMatter",
         }, {
-            name: "Sample Member",
-            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
-            experience: 1,
+            name: "SMV",
+            link: "https://www.khanacademy.org/profile/MildlyAwkward",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/blobby-purple.svg",
+            experience: 0,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
             bio: "This could be you!",
         },
+	    {
+            name: "Mojo1000",
+            link: "https://www.khanacademy.org/profile/mojo1000",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/piceratops-ultimate.svg",
+            experience: -15,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	{
+            name: "NL",
+            link: "https://www.khanacademy.org/profile/kaid_101904269317089495055459",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/duskpin-sapling.svg",
+            experience: 2,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	 {
+            name: "Astro",
+            link: "https://www.khanacademy.org/profile/astro.ka",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/sneak-peak-blue.svg",
+            experience: 5,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	 {
+            name: "CanonRogue24",
+            link: "https://www.khanacademy.org/profile/astro.ka",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/aqualine-ultimate.svg",
+            experience: 3,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	    
     ],
 
 
@@ -146,10 +187,50 @@ var coc_teamLeaferStudios = {
             programs: ['#', '#', '#'],
             bio: "@LeaferStudios",
         }, {
-            name: "Sample Member",
-            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
+            name: "Vortex",
+            link: "https://www.khanacademy.org/profile/kaid_1191832568232610683566773",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/duskpin-tree.svg",
+            experience: 3.5,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	{
+            name: "TDJ",
+            link: "https://www.khanacademy.org/profile/kaid_682972421482671044758972",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/boggle-green.svg",
             experience: 1,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	    {
+            name: "Washington",
+            link: "https://www.khanacademy.org/profile/kaid_701855056246665520276831",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/piceratops-ultimate.svg",
+            experience: 2,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	{
+            name: "Cloudy Skies",
+            link: " https://www.khanacademy.org/profile/cloudy000",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/sneak-peak-blue.svg",
+            experience: 2,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	 {
+            name: "Peter",
+            link: "https://www.khanacademy.org/profile/kaid_678430895752882629315799",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/robot_male_3.svg",
+            experience: 2.5,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
@@ -193,10 +274,50 @@ var coc_teamCaptainLongtreader = {
             programs: ['#', '#', '#'],
             bio: "@ThornSeaclaw",
         }, {
-            name: "Sample Member",
-            link: "https://www.khanacademy.org/profile/kaid_152917881906477482126765/projects",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
-            experience: 1,
+            name: "Walkworthy",
+            link: "https://khanacademy.org/profile/PowerCoder",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-blue.svg",
+            experience: 3,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	    {
+            name: "Caige",
+            link: "https://www.khanacademy.org/profile/kaid_464036545140493160818164",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/stelly-green.svg",
+            experience: 3,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	{
+            name: "HSStudent",
+            link: "khanacademy.org/profile/HSstudent16",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-ohnoes.svg",
+            experience: 4.3,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	 {
+            name: "Sugar",
+            link: "https://www.khanacademy.org/profile/kaid_706936468208143963519267",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/scuttlebug-green.svg",
+            experience: 3,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	    {
+            name: "Bearkirb",
+            link: "https://www.khanacademy.org/profile/kaid_375460112550893828689953/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-hopper-cool.svg",
+            experience: 3,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
