@@ -12,6 +12,20 @@ var coc_teamFourName = "F4stBo1";
 var coc_teamFiveName = "Dominic R.";
 
 /**
+Scores 
+@LeaferStudios - Because it's collaborative, it's easier for me to update the total scores
+for each team rather than individual contestant's score and having that affect the total score. 
+**/
+var coc_leaderboard ={
+	Fifth: 0,
+	LeaferStudios: 0,
+	Fastboi: 0,
+	CaptainLongtreader: 0,
+};
+
+
+
+/**
  * SAMPLE:
  * Simply replace INSERT_PROFILE_LINK_HERE with users profile link and INSERT_NAME with username and INSERT_POSITION with position (if there is no 'position' or 'roles', you can just remove it).
 
@@ -153,11 +167,13 @@ var coc_teamFifth = {
 
 
     calcScores: function() {
-        var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
+        /*
+	var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
         var q = z.split(",").filter(x => x.trim().length && !isNaN(x)).map(Number);
         for (var i = 0; i < q.length; i++) {
             return q.reduce((partialSum, a) => partialSum + a, 0);
-        }
+        }*/
+	    return coc_leaderboard.Fifth;
     },
 
 };
@@ -240,11 +256,13 @@ var coc_teamLeaferStudios = {
 
 
     calcScores: function() {
-        var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
+         /*
+	var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
         var q = z.split(",").filter(x => x.trim().length && !isNaN(x)).map(Number);
         for (var i = 0; i < q.length; i++) {
             return q.reduce((partialSum, a) => partialSum + a, 0);
-        }
+        }*/
+	    return coc_leaderboard.LeaferStudios;
     },
 
 };
@@ -328,11 +346,13 @@ var coc_teamCaptainLongtreader = {
 
 
     calcScores: function() {
-        var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
+         /*
+	var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
         var q = z.split(",").filter(x => x.trim().length && !isNaN(x)).map(Number);
         for (var i = 0; i < q.length; i++) {
             return q.reduce((partialSum, a) => partialSum + a, 0);
-        }
+        }*/
+	    return coc_leaderboard.CaptainLongtreader;
     },
 
 };
@@ -363,10 +383,50 @@ var coc_teamFastBoi = {
             programs: ['#', '#', '#'],
             bio: "@f4stb01",
         }, {
-            name: "Sample Member",
-            link: "https://www.khanacademy.org/profile/kaid_114585470331020100763556/",
-            avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-green.svg",
-            experience: 1,
+            name: "Ackvonhey",
+            link: "https://www.khanacademy.org/profile/kaid_659616453204107513847815",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/aqualine-sapling.svg",
+            experience: 3,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	 {
+            name: "ST",
+            link: "https://www.khanacademy.org/profile/satieman/projects",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/sneak-peak-blue.svg",
+            experience: 3,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	{
+            name: "Cooke's Ghost",
+            link: "https://www.khanacademy.org/profile/CapTheDon/",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/area-52-green.svg",
+            experience: 2,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	{
+            name: "Virtuosa",
+            link: "https://www.khanacademy.org/profile/asoutriv/",
+            avatar: "https://cdn.kastatic.org/images/avatars/svg/duskpin-sapling.svg",
+            experience: 0,
+            scores: [0, 0, 0],
+            // extra
+            programs: ['#', '#', '#'],
+            bio: "This could be you!",
+        },
+	{
+            name: "Electric Dolphin",
+            link: "https://www.khanacademy.org/profile/asoutriv/",
+            avatar: "https://www.khanacademy.org/profile/kaid_1188776231699286995947997",
+            experience: 3,
             scores: [0, 0, 0],
             // extra
             programs: ['#', '#', '#'],
@@ -376,11 +436,13 @@ var coc_teamFastBoi = {
 
 
     calcScores: function() {
-        var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
+         /*
+	var z = this.members.map(el => el.scores).reduce((a, b) => a + "," + b);
         var q = z.split(",").filter(x => x.trim().length && !isNaN(x)).map(Number);
         for (var i = 0; i < q.length; i++) {
             return q.reduce((partialSum, a) => partialSum + a, 0);
-        }
+        }*/
+	    return coc_leaderboard.Fastboi;
     },
 
 };
