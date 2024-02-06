@@ -35,10 +35,10 @@ Copy/paste it to the string below, right after the last one.
 **/
 var judges = `
 <li><b><a target='_blank' href='https://www.khanacademy.org/profile/kaid_160653079463992085090428'>Liam K.</a></b> is a chief judge.</li>
-<li><b><a target='_blank' href='https://www.khanacademy.org/profile/kaid_160653079463992085090428'>This Could Be You!</a></b> is a judge.</li>
-<li><b><a target='_blank' href='https://www.khanacademy.org/profile/kaid_160653079463992085090428'>This Could Be You!</a></b> is a judge.</li>
-<li><b><a target='_blank' href='https://www.khanacademy.org/profile/kaid_160653079463992085090428'>This Could Be You!</a></b> is a judge.</li>
-<li><b><a target='_blank' href='https://www.khanacademy.org/profile/kaid_160653079463992085090428'>This Could Be You!</a></b> is a judge.</li>
+<li><b><a target='_blank' href='https://www.khanacademy.org/profile/kaid_42165633374795610935956'>Ibraheem Ahmed (IA)</a></b> is a judge.</li>
+<li><b><a target='_blank' href='https://www.khanacademy.org/profile/kaid_152917881906477482126765'>Dominic R.</a></b> is a judge.</li>
+<li><b><a target='_blank' href='https://www.khanacademy.org/profile/kaid_103000698141866290580261'>Jake K.</a></b> is a judge.</li>
+<li><b><a target='_blank' href='https://www.khanacademy.org/profile/kaid_782456381077327580037335'>Multiverse</a></b> is a judge.</li>
 
 `;
 
