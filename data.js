@@ -17,10 +17,10 @@ Scores
 for each team rather than individual contestant's score and having that affect the total score. 
 **/
 var coc_leaderboard ={
-	Fifth: 0,
-	LeaferStudios: 0,
-	Fastboi: 0,
-	CaptainLongtreader: 0,
+	Fifth: 22.3,
+	LeaferStudios: 37.1,
+	Fastboi: 37.8,
+	CaptainLongtreader: 15.4,
 };
 
 
@@ -108,9 +108,9 @@ var coc_teamFifth = {
             link: "https://www.khanacademy.org/profile/kaid_1065213098995021368328526",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/leaf-blue.svg",
             experience: 4,
-            scores: [0, 0, 0],
+            scores: [10.6, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://khanacademy.org/cs/-/6079968300941312', '#', '#'],
             bio: "@FifthStateOfMatter",
         }, {
             name: "SMV",
@@ -127,9 +127,9 @@ var coc_teamFifth = {
             link: "https://www.khanacademy.org/profile/mojo1000",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/piceratops-ultimate.svg",
             experience: -15,
-            scores: [0, 0, 0],
+            scores: [10.6, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://khanacademy.org/cs/-/6079968300941312', '#', '#'],
             bio: "This could be you!",
         },
 	{
@@ -137,9 +137,9 @@ var coc_teamFifth = {
             link: "https://www.khanacademy.org/profile/kaid_101904269317089495055459",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/duskpin-sapling.svg",
             experience: 2,
-            scores: [0, 0, 0],
+            scores: [11.7, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/5608759125786624', '#', '#'],
             bio: "This could be you!",
         },
 	 {
@@ -157,9 +157,9 @@ var coc_teamFifth = {
             link: "https://www.khanacademy.org/profile/astro.ka",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/aqualine-ultimate.svg",
             experience: 3,
-            scores: [0, 0, 0],
+            scores: [11.7, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/5608759125786624', '#', '#'],
             bio: "This could be you!",
         },
 	    
@@ -199,17 +199,17 @@ var coc_teamLeaferStudios = {
             link: "https://www.khanacademy.org/profile/kaid_553656479258879622339276/",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/leafers-ultimate.svg",
             experience: 4,
-            scores: [0, 0, 0],
-            programs: ['#', '#', '#'],
+            scores: [11.2, 0, 0],
+            programs: ['https://www.khanacademy.org/cs/-/5888601423527936', '#', '#'],
             bio: "@LeaferStudios",
         }, {
             name: "Vortex",
             link: "https://www.khanacademy.org/profile/kaid_1191832568232610683566773",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/duskpin-tree.svg",
             experience: 3.5,
-            scores: [0, 0, 0],
+            scores: [13.5, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/6632956597813248', '#', '#'],
             bio: "This could be you!",
         },
 	{
@@ -217,9 +217,9 @@ var coc_teamLeaferStudios = {
             link: "https://www.khanacademy.org/profile/kaid_682972421482671044758972",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/boggle-green.svg",
             experience: 1,
-            scores: [0, 0, 0],
+            scores: [13.5, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/6632956597813248', '#', '#'],
             bio: "This could be you!",
         },
 	    {
@@ -227,9 +227,9 @@ var coc_teamLeaferStudios = {
             link: "https://www.khanacademy.org/profile/kaid_701855056246665520276831",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/piceratops-ultimate.svg",
             experience: 2,
-            scores: [0, 0, 0],
+            scores: [12.4, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/4694765414301696', '#', '#'],
             bio: "This could be you!",
         },
 	{
@@ -237,9 +237,9 @@ var coc_teamLeaferStudios = {
             link: " https://www.khanacademy.org/profile/cloudy000",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/sneak-peak-blue.svg",
             experience: 2,
-            scores: [0, 0, 0],
+            scores: [11.2, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/5888601423527936', '#', '#'],
             bio: "This could be you!",
         },
 	 {
@@ -247,9 +247,9 @@ var coc_teamLeaferStudios = {
             link: "https://www.khanacademy.org/profile/kaid_678430895752882629315799",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/robot_male_3.svg",
             experience: 2.5,
-            scores: [0, 0, 0],
+            scores: [12.4, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/4694765414301696', '#', '#'],
             bio: "This could be you!",
         },
     ],
@@ -316,9 +316,9 @@ var coc_teamCaptainLongtreader = {
             link: "khanacademy.org/profile/HSstudent16",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-ohnoes.svg",
             experience: 4.3,
-            scores: [0, 0, 0],
+            scores: [15.4, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/5655503662399488', '#', '#'],
             bio: "This could be you!",
         },
 	 {
@@ -336,9 +336,9 @@ var coc_teamCaptainLongtreader = {
             link: "https://www.khanacademy.org/profile/kaid_375460112550893828689953/projects",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-hopper-cool.svg",
             experience: 3,
-            scores: [0, 0, 0],
+            scores: [15.4, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/5655503662399488', '#', '#'],
             bio: "This could be you!",
         },
 
@@ -378,18 +378,18 @@ var coc_teamFastBoi = {
             link: "https://www.khanacademy.org/profile/kaid_114585470331020100763556/",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/cs-hopper-cool.svg",
             experience: 4,
-            scores: [0, 0, 0],
+            scores: [12.4, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/5110133152727040', '#', '#'],
             bio: "@f4stb01",
         }, {
             name: "Ackvonhey",
             link: "https://www.khanacademy.org/profile/kaid_659616453204107513847815",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/aqualine-sapling.svg",
             experience: 3,
-            scores: [0, 0, 0],
+            scores: [14.7, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/6741196300009472', '#', '#'],
             bio: "This could be you!",
         },
 	 {
@@ -397,9 +397,9 @@ var coc_teamFastBoi = {
             link: "https://www.khanacademy.org/profile/satieman/projects",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/sneak-peak-blue.svg",
             experience: 3,
-            scores: [0, 0, 0],
+            scores: [12.4, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/5110133152727040', '#', '#'],
             bio: "This could be you!",
         },
 	{
@@ -407,9 +407,9 @@ var coc_teamFastBoi = {
             link: "https://www.khanacademy.org/profile/CapTheDon/",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/area-52-green.svg",
             experience: 2,
-            scores: [0, 0, 0],
+            scores: [10.7, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/6079368599355392', '#', '#'],
             bio: "This could be you!",
         },
 	{
@@ -417,9 +417,9 @@ var coc_teamFastBoi = {
             link: "https://www.khanacademy.org/profile/asoutriv/",
             avatar: "https://cdn.kastatic.org/images/avatars/svg/duskpin-sapling.svg",
             experience: 0,
-            scores: [0, 0, 0],
+            scores: [10.7, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/6079368599355392', '#', '#'],
             bio: "This could be you!",
         },
 	{
@@ -427,9 +427,9 @@ var coc_teamFastBoi = {
             link: "https://www.khanacademy.org/profile/asoutriv/",
             avatar: "https://www.khanacademy.org/profile/kaid_1188776231699286995947997",
             experience: 3,
-            scores: [0, 0, 0],
+            scores: [14.7, 0, 0],
             // extra
-            programs: ['#', '#', '#'],
+            programs: ['https://www.khanacademy.org/cs/-/6741196300009472', '#', '#'],
             bio: "This could be you!",
         },
     ],
