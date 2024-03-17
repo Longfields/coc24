@@ -17,10 +17,10 @@ Scores
 for each team rather than individual contestant's score and having that affect the total score. 
 **/
 var coc_leaderboard ={
-	Fifth: 22.3,
-	LeaferStudios: 37.1,
-	Fastboi: 37.8,
-	CaptainLongtreader: 15.4,
+	Fifth: 38.7,
+	LeaferStudios: 118.12,
+	Fastboi: 94.64,
+	CaptainLongtreader: 93.9,
 };
 
 
